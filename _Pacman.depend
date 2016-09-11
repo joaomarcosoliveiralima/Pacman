@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1453128879 source:/home/joao-marcos/Documentos/_Pacman/Pacman.c
+	"Hender.h"
+	"Ghosts.h"
+
+1453125779 /home/joao-marcos/Documentos/_Pacman/Texto_game.h
+	"Hender.h"
+
+1453127664 /home/joao-marcos/Documentos/_Pacman/Level.h
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1453127519 /home/joao-marcos/Documentos/_Pacman/Load_texture.h
+	"Hender.h"
+
+1452816244 source:/home/joao-marcos/Documentos/_Pacman/map.c
+	"map.h"
+
+1452816992 /home/joao-marcos/Documentos/_Pacman/map.h
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	"Ghost.h"
+	"Level.h"
+
+1453123817 /home/joao-marcos/Documentos/_Pacman/Ghost.h
+	"Henders.h"
+
+1453128166 /home/joao-marcos/Documentos/_Pacman/Ghost.c
+	"Ghosts.h"
+
+1452816244 /home/joao-marcos/Documentos/_Pacman/map.c
+	"map.h"
+
+1453128980 source:/home/joao-marcos/Documentos/_Pacman/Ghost.c
+	"Ghosts.h"
+
+1453123800 /home/joao-marcos/Documentos/_Pacman/Henders.h
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1453123177 source:/home/joao-marcos/Documentos/_Pacman/Level.c
+
+1453127525 source:/home/joao-marcos/Documentos/_Pacman/Load_texture.c
+	"Load_texture.h"
+
+1453128445 source:/home/joao-marcos/Documentos/_Pacman/Texto_game.c
+	"Hender.h"
+
+1453131045 /home/joao-marcos/Documentos/_Pacman/Ghosts.h
+	"Hender.h"
+	"Level.h"
+	"Load_texture.h"
+	"Texto_game.h"
+
+1453125759 /home/joao-marcos/Documentos/_Pacman/Hender.h
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1453127525 /home/joao-marcos/Documentos/_Pacman/Load_texture.c
+	"Load_texture.h"
+
+1453128445 /home/joao-marcos/Documentos/_Pacman/Texto_game.c
+	"Hender.h"
+
+1453130898 source:/home/joao-marcos/Documentos/_Pacman/main.c
+	"Hender.h"
+	"Ghosts.h"
+	"Pacman.h"
+
+1453130929 /home/joao-marcos/Documentos/_Pacman/Pacman.h
+	"Hender.h"
+	"Level.h"
+	"Load_texture.h"
+	"Texto_game.h"
+
